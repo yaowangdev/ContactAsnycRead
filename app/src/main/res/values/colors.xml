@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 黑白色值 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_2">#5d330d</color>
+    <color name="gray">#808080</color>
+    <color name="red">#F8211C</color>
+    <color name="blue">#0000FF</color>
+    <color name="blue_2">#4990E2</color>
+    <color name="transparent">#00000000</color>
+    <color name="gold_main">#efb933</color>
+
+
+    <!-- 灰色程度 -->
+    <color name="gray99">#FCFCFC</color>
+    <color name="gray97">#F7F7F7</color>
+    <color name="gray95">#F2F2F2</color>
+    <color name="gray90">#E6E6E6</color>
+    <color name="gray80">#D6D6D6</color>
+
+
+    <!-- 黑色程度 -->
+    <color name="black95">#0D0D0D</color>
+    <color name="black90">#1A1A1A</color>
+    <color name="black_gray">#979797</color>
+
+
+    <!-- 透明度黑 -->
+    <color name="trans_black97">#88000000</color>
+    <color name="trans_black95">#44000000</color>
+    <color name="trans_black94">#22000000</color>
+
+    <!-- 白色透明 -->
+
+
+    <color name="text_hint">#bcbcbc</color>
+
+    <color name="gold_dark">#f1b643</color>
+    <color name="gold_shallow">#ffde6a</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <rotate android:drawable="@drawable/icon_rotate" android:fromDegrees="2160" android:toDegrees="0"></rotate>
+    </item>
+
+    <!--<item >-->
+        <!--<rotate android:drawable="@mipmap/spinner_big_outer" android:fromDegrees="0" android:toDegrees="720"></rotate>-->
+    <!--</item>-->
+
+</layer-list>
